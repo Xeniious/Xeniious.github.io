@@ -1,0 +1,115 @@
+html {background-color: darkseagreen}
+
+#myheader{
+    background-color: honeydew;
+    padding: 5px;
+    text-align: center;
+    border-width: 5px;
+    border-color: darkolivegreen;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+h1{
+    margin-left: 1%;
+    margin-right: 1%;
+    font-size:40px;
+    font-family: Garamond;
+    color: darkslategray;
+}
+
+#picture{
+    background-image: url("redwoods.jpg");
+}
+
+.image{
+    width: 20%; /* you can use % */
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 5%;
+}
+
+.image_xaria{
+    width: 12%; /* you can use % */
+    height: 12%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.image_palette{
+    width: 25%; /* you can use % */
+    height: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.image_chess{
+    width: 25%; /* you can use % */
+    height: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h3{
+    color: white;
+    background-color:rgb(55, 123, 23);
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+h4{
+    text-align: center;
+    font-size: 18px;
+}
+
+#about{
+    background-color: honeydew;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    padding: 10px;
+    border-color: darkolivegreen;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#projects{
+    background-color: honeydew;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    padding: 10px;
+    border-color: darkolivegreen;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+}
+#contact{
+    background-color: honeydew;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    border-color: darkolivegreen;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+body{
+    
+}
